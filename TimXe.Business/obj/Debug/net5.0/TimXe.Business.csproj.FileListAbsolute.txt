@@ -1,0 +1,12 @@
+D:\C#\TimXe.API\TimXe.Business\bin\Debug\net5.0\TimXe.Business.deps.json
+D:\C#\TimXe.API\TimXe.Business\bin\Debug\net5.0\TimXe.Business.dll
+D:\C#\TimXe.API\TimXe.Business\bin\Debug\net5.0\ref\TimXe.Business.dll
+D:\C#\TimXe.API\TimXe.Business\bin\Debug\net5.0\TimXe.Business.pdb
+D:\C#\TimXe.API\TimXe.Business\obj\Debug\net5.0\TimXe.Business.csproj.AssemblyReference.cache
+D:\C#\TimXe.API\TimXe.Business\obj\Debug\net5.0\TimXe.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\TimXe.API\TimXe.Business\obj\Debug\net5.0\TimXe.Business.AssemblyInfoInputs.cache
+D:\C#\TimXe.API\TimXe.Business\obj\Debug\net5.0\TimXe.Business.AssemblyInfo.cs
+D:\C#\TimXe.API\TimXe.Business\obj\Debug\net5.0\TimXe.Business.csproj.CoreCompileInputs.cache
+D:\C#\TimXe.API\TimXe.Business\obj\Debug\net5.0\TimXe.Business.dll
+D:\C#\TimXe.API\TimXe.Business\obj\Debug\net5.0\ref\TimXe.Business.dll
+D:\C#\TimXe.API\TimXe.Business\obj\Debug\net5.0\TimXe.Business.pdb

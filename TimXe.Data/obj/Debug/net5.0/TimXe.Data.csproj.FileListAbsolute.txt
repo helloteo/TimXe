@@ -1,0 +1,15 @@
+D:\C#\TimXe.API\TimXe.Data\bin\Debug\net5.0\TimXe.Data.deps.json
+D:\C#\TimXe.API\TimXe.Data\bin\Debug\net5.0\TimXe.Data.runtimeconfig.json
+D:\C#\TimXe.API\TimXe.Data\bin\Debug\net5.0\TimXe.Data.runtimeconfig.dev.json
+D:\C#\TimXe.API\TimXe.Data\bin\Debug\net5.0\TimXe.Data.dll
+D:\C#\TimXe.API\TimXe.Data\bin\Debug\net5.0\ref\TimXe.Data.dll
+D:\C#\TimXe.API\TimXe.Data\bin\Debug\net5.0\TimXe.Data.pdb
+D:\C#\TimXe.API\TimXe.Data\obj\Debug\net5.0\TimXe.Data.csproj.AssemblyReference.cache
+D:\C#\TimXe.API\TimXe.Data\obj\Debug\net5.0\TimXe.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\TimXe.API\TimXe.Data\obj\Debug\net5.0\TimXe.Data.AssemblyInfoInputs.cache
+D:\C#\TimXe.API\TimXe.Data\obj\Debug\net5.0\TimXe.Data.AssemblyInfo.cs
+D:\C#\TimXe.API\TimXe.Data\obj\Debug\net5.0\TimXe.Data.csproj.CoreCompileInputs.cache
+D:\C#\TimXe.API\TimXe.Data\obj\Debug\net5.0\TimXe.Data.dll
+D:\C#\TimXe.API\TimXe.Data\obj\Debug\net5.0\ref\TimXe.Data.dll
+D:\C#\TimXe.API\TimXe.Data\obj\Debug\net5.0\TimXe.Data.pdb
+D:\C#\TimXe.API\TimXe.Data\obj\Debug\net5.0\TimXe.Data.genruntimeconfig.cache
