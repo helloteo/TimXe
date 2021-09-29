@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EIBlaJec9I1Ih6OPqYzErWCjc3q2MOTnn94c4qhA7N5CxPkNBYR/KlXDyCxaKYoZeX3HPXvG2CKhQyfVnQIE1A==",
+  "dgSpecHash": "KmIrPjKw0nwvSGhX3151M89BBSWxsNi1nXwV9uqNdH7I0H+W6P1F4G5S2MDeIsTvi2CiQHiudtFKA2UbB+6LZQ==",
   "success": true,
-  "projectFilePath": "D:\\C#\\TimXe.API\\TimXe.Business\\TimXe.Business.csproj",
+  "projectFilePath": "D:\\C#\\TimXe\\TimXe.Business\\TimXe.Business.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

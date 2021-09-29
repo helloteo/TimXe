@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CF80iskG3AYaWInujTE3FWgjtHebEcOCyQSJK8s4DmIwIHM6iUcJplHJoKktZ3Efw/ZPxFjmqQH0kavAmhpGlQ==",
+  "dgSpecHash": "Mozogu8b7qEJJVFqVoRJFdb/5RdqUFMVGGh9cYyj9x00xVhtjniFeniFiWFU0aL28anisVt4933qs+26kDnPTQ==",
   "success": true,
-  "projectFilePath": "D:\\C#\\TimXe.API\\TimXe.API\\TimXe.API.csproj",
+  "projectFilePath": "D:\\C#\\TimXe\\TimXe.API\\TimXe.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\5.0.10\\microsoft.aspnetcore.diagnostics.entityframeworkcore.5.0.10.nupkg.sha512",

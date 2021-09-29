@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\TimXe.API\\TimXe.Data\\TimXe.Data.csproj": {}
+    "D:\\C#\\TimXe\\TimXe.Data\\TimXe.Data.csproj": {}
   },
   "projects": {
-    "D:\\C#\\TimXe.API\\TimXe.Data\\TimXe.Data.csproj": {
+    "D:\\C#\\TimXe\\TimXe.Data\\TimXe.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\TimXe.API\\TimXe.Data\\TimXe.Data.csproj",
+        "projectUniqueName": "D:\\C#\\TimXe\\TimXe.Data\\TimXe.Data.csproj",
         "projectName": "TimXe.Data",
-        "projectPath": "D:\\C#\\TimXe.API\\TimXe.Data\\TimXe.Data.csproj",
+        "projectPath": "D:\\C#\\TimXe\\TimXe.Data\\TimXe.Data.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\TimXe.API\\TimXe.Data\\obj\\",
+        "outputPath": "D:\\C#\\TimXe\\TimXe.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
