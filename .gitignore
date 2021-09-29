@@ -1,0 +1,9 @@
+/TimXe.Data/bin
+/TimXe.Business/bin
+/TimXe.API/bin
+/.vs
+/TimXe.API/.vs
+/TimXe.Data/obj
+/TimXe.Business/obj
+/TimXe.API/obj
+/TimXe.API/appsettings.json
